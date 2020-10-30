@@ -54,3 +54,5 @@ legend(-6, 42, legend=levels(data$Crimes_quantile),
        cex=0.6,
        xjust=0,
        title="Criminalité")  
+
+# Pas de grande corrélations à l'oeil nu. Test stat à réaliser
